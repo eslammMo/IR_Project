@@ -1,5 +1,6 @@
 # Information Retrieval Project
-This project contains the following:
+This project contains the following
+
 First part : 
 1. Read files 
 2. Apply tokenization 
